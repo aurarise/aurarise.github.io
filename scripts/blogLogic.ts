@@ -1,7 +1,7 @@
 
-
+const posts = ["1.md", "2.md"]; 
 const contentPath = "./content/";
-const posts = ["1.md"]; 
+
 const postsListElements = document.getElementById("posts-list");
 
 interface Post {
