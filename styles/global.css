@@ -1,15 +1,15 @@
 [data-theme = "light"] {
-    --color-bg: #e7e5ce; /*background colour var*/
+    --color-bg: #fffef2; /*background colour var*/
 		--color: rgb(107, 107, 107);  /*text colour var*/
-		--color-nav: #e7e5ce; /*Navbar background colour var*/
+		--color-nav: #fffef2; /*Navbar background colour var*/
     --color-border: #c6c7bd; /* border colour for centre box */
     
        }
 
 [data-theme = "dark"] {
-    --color-bg: #1f1f1f;
+    --color-bg: #141414;
     --color: rgb(211, 211, 211);
-    --color-nav: #1f1f1f;
+    --color-nav: #141414;
     --color-border: #5a5a5a;
 
       }
@@ -72,7 +72,11 @@ li {
   margin: 25px;
 }
 
+.center-box {
+  margin: 30px
 
+
+}
 
 
 /* nav bar */

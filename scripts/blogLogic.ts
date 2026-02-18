@@ -1,5 +1,5 @@
 
-const posts = ["1.md", "2.md"]; 
+const posts = ["1.md", "2.md", "3.md"]; 
 const contentPath = "./content/";
 
 const postsListElements = document.getElementById("posts-list");
