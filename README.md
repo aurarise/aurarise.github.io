@@ -1,2 +1,2 @@
-# au-ra1.github.io
+# aurarise.github.io
 my static site
